@@ -1,3 +1,5 @@
+**Author:** Matheus Santos <[mts.cesario@gmail.com](mailto:mts.cesario@gmail.com)>
+
 # machine-learning
 Machine Learning annotations, insights and resources
 
